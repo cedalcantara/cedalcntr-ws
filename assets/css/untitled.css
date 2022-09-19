@@ -1,0 +1,110 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#TextR {
+  text-align: right;
+}
+
+#lightfont {
+  color: white!important;
+  padding-bottom: 20px;
+}
+
+#darkfont {
+  color: black!important;
+  padding-bottom: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#modal-paragraph {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+@media (max-width: 400px) {
+  .modal-mq {
+    height: 450px;
+  }
+}
+
+@media (min-width: 401px) and (max-width:515px) {
+  .modal-mq {
+    height: 520px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .project-h {
+    height: 288px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .project-h {
+    height: 257.1px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .project-h {
+    height: 213px;
+  }
+}
+
+@media (max-width: 991px) {
+  .project-h {
+    height: 242px;
+  }
+}
+
+.picture-center {
+  text-align: center;
+}
+
+@media (min-width: 575px) {
+  .appdev-h {
+    height: 340px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .exppic {
+    height: 300px;
+    width: 412px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .exppic {
+    width: 356px;
+    height: 257.1px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .exppic {
+    width: 296px;
+    height: 213px;
+  }
+}
+
+@media (max-width: 991px) {
+  .exppic {
+    width: 322px;
+    height: 242px;
+  }
+}
+
+lottie-player {
+  margin: 0 auto;
+}
+
