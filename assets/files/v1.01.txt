@@ -1,0 +1,17 @@
+V1.01
+-MS Edge Home Header BG
+-SVG Dancing Animation Controls removal(Fixed)
+-Exp Sect Learn More to button(Fixed)
+-Contact Sect Msg Textarea max char(Fixed)
+-Cert Sect Carousel controls opacity/hover(Fixed)
+-CV & Resume in Home page(Applied)
+-Check codes -> View Source/ View Project(Changed)
+-Color Scheme minor changes(Changed)
+-Cert section minor adjustments(Applied)
+
+To Consider
+-Scrollable for more readability
+-Project to Skill
+	-Project names instead of skills in project heading/ card hover
+	-Bulleted skills and concise explanation in about section
+	
