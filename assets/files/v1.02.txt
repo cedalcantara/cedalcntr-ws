@@ -1,0 +1,7 @@
+V1.02
+- Added new certificate: Google's Intro to Git and GitHub
+- Adjusted the Technical skills in about and added new skills: ExpressJS, NodeJS, MongoDB
+- Added my location in Contact Section.
+- Added a new project: AIR.EXE
+
+Best of luck! Thanks for Reading!	
